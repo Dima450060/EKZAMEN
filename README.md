@@ -23,9 +23,9 @@ int main()
     string sl0 = "paralelogramm"; //слова  - заменить русский на латиницу, так как на русском стринг и чар не сравниваются - ошибка кодировок
     string sl1 = "fizika";
     string sl2 = "kosinys";
-    string sl3 = "germoshpangoyt";
+    string sl3 = "program";
     string sl4 = "syshestvitelnoe";
-    string sl5 = "sinxrofazatron";
+    string sl5 = "domashka";
     string sl6 = "kollaider";
     string sl7 = "vosstanovlenie";
     string sl8 = "gipopotam";
